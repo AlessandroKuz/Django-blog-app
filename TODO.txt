@@ -1,0 +1,3 @@
+confirm email when registering and updating it
+aggiungere un avviso di "successo" per quando viene eliminato un post
+add an error page if the inserted email is not associated with any user
